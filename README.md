@@ -1,2 +1,2 @@
-# Guess-Secret-Number
-Guess the secret number or get stuck in an endless loop
+## Python Activities/Excercises
+Here are some Python Activities/Excercises to learn Python
